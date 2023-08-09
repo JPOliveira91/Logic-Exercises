@@ -1,0 +1,1 @@
+4 - Implemente uma função ou trecho de código que calcule a moda das idades dos alunos de uma turma de colégio. As idades estão representadas por um array ou vetor de inteiros. Obs.: Lembrando que moda é o valor de maior incidência de repetições.

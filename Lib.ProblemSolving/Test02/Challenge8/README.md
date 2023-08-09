@@ -1,0 +1,1 @@
+5 - Implemente uma função que receba duas matrizes de inteiros e efetue sua multiplicação. O resultado da multiplicação de duas matrizes A e B é a soma da multiplicação elemento a elemento de das linhas de A, pelas colunas de B.

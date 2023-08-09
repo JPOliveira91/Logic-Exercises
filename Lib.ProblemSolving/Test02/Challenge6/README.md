@@ -1,0 +1,1 @@
+3 - Implemente uma classe ou trecho de código que represente uma lista encadeada e ordenada de inteiros de forma crescente. Implemente apenas o método que faz a remoção de um elemento da lista. O parâmetro de entrada é o valor inteiro do elemento a ser excluído.

@@ -1,0 +1,1 @@
+1 - Implemente uma função ou trecho de código que receba uma lista ou vetor de inteiros e retorne uma lista ou vetor com os valores invertidos.

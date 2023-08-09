@@ -1,0 +1,1 @@
+2 - Implemente uma função ou trecho de código que calcule o fatorial de um número inteiro de forma recursiva.
