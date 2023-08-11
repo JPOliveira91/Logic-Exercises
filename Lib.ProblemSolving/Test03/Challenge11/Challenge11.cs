@@ -7,6 +7,10 @@ public class Challenge11
     public static char[] RetrieveValue(char[] inputArray)
     {
         List<char> resultList = new List<char>() { };
+
+        // return empty array if empty array is received
+        if(inputArray.Length == 0 ) { return resultList.ToArray(); }
+
         char lastChar = inputArray[0];
         int count = 0;
 

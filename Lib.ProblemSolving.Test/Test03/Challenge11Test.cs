@@ -51,10 +51,10 @@ public class Challenge11Test
     [Fact]
     public void TestCase05()
     {
-        var inputArray = new char[] { 'z' };
+        var inputArray = new char[] { };
         var result = Challenge11.RetrieveValue(inputArray);
 
-        var expectedResult = new char[] { 'z' };
+        var expectedResult = new char[] { };
 
         Assert.Equal(expectedResult, result);
 
