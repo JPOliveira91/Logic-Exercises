@@ -50,6 +50,7 @@ public class Challenge11
 
     // Method to transform a number into a List of single Digits
     // 123456 -> { '1', '2', '3', '4', '5', '6', }
+    // Source: https://stackoverflow.com/a/45508660
     private static IEnumerable<int> GetDigits(int source)
     {
         Stack<int> digits = new Stack<int>();
